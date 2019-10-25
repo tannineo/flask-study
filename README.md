@@ -1,4 +1,4 @@
-# cs7is5-adaptapp
+# flask-study
 
 Here comes the sample code!
 
